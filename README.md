@@ -1,16 +1,4 @@
 # todo_list_flutter
 
-A new Flutter project.
+https://github.com/sakriwassim/todo_list_bloc_flutter/assets/62904371/75f37db8-4afd-4e24-93bb-9b1597e371f6
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
